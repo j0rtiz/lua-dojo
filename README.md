@@ -13,3 +13,7 @@
     > C:\Lua\bin
 1. Install lfs module
     > luarocks install luafilesystem
+1. Download and install WezTerm in C:\Program Files\WezTerm
+    > [Installing on Windows](https://wezfurlong.org/wezterm/install/windows.html)
+1. Copy **wezterm.lua** and **wezterm_modules** to the folder where WesTern was installed
+    > C:\Program Files\WezTerm
