@@ -10,6 +10,6 @@
 1. Install Lua, LuaRocks and apply patches
     > hererocks C:\Lua -l5.3 -rlatest --patch
 1. Add Lua dir to $PATH
-    > C:\Lua\bin\activate.bat
+    > C:\Lua\bin
 1. Install lfs module
     > luarocks install luafilesystem
